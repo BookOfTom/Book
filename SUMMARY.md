@@ -1,7 +1,6 @@
 # Summary
 
-### BOOK OF TOM
-
+## BOOK OF TOM
 * [Quick Introduction](README.md)
 * [GLOSSARY](glossary.md)
 * [RESOURCES](resources.md)
@@ -42,6 +41,4 @@
 * [Part 12: PostTOM](posttom.md#accommodations)
     * [PostTOM Meeting](posttom.md#meeting)
 * [Part 13: The End of the Book of TOM](end.md)
-
-
 
