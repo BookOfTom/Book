@@ -1,12 +1,6 @@
 ![image alt text](img/9slQvAUhu3dvIjWapxHeA_img_1.png)
 
 
-## The (Little)
-# BOOK OF TOM
-
-
-
-
 
 TOM:Tikkun Olam Makers is a global movement bringing together people with disabilities and Makers to develop open source assistive technology to address everyday challenges.
 
