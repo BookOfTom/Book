@@ -2,7 +2,7 @@
 
 
 ## The (Little)
-# BOOK OF TOMy
+# BOOK OF TOM
 
 
 
