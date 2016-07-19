@@ -8,7 +8,7 @@ We have a lot to cover in the Book of TOM, familiarize yourself with our termino
 
 **Participants: **Makers and Need Knowers that have been accepted to TOM and completed their** registration form**.
 
-**Challenges vs. ****Projects**
+**Challenges vs. Projects**
 
 **Challenges:** identified challenges presented by a Need Knower where the market forces fail or the existing solution is not affordable.
 
