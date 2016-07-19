@@ -41,6 +41,6 @@ The abridged licensing model document can be [viewed here](http://static1.square
 
 **License 2** gives you permission to run a franchised TOMGlobal event. At the signing, you will set milestones to measure success of the event together with your TOM POC.
 
-**Final Go****:** Complete all partnerships, finalize production details and run TOM. Depending on license level, TOM team sends one or more representatives to the event to help in facilitation and  coordination of the Makeathon.
+**Final Go:** Complete all partnerships, finalize production details and run TOM. Depending on license level, TOM team sends one or more representatives to the event to help in facilitation and  coordination of the Makeathon.
 
 **Emergency situations: **If you need to change organizers, you need to speak with your TOM POC and a new organizer will need to sign the license. The TOM POC has the right to decline a change of organizer and cancel the event.
