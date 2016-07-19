@@ -28,6 +28,7 @@ Whether your Makeathon has 80 participants or 800 participants, the model is the
     **(print)** TOM:NYC Thanksgiving Day Parade
     **(verbal)** TOM:NYC at the Thanksgiving Day Parade
 
-Note: Instructions to design your logo are found in the [branding guidelines](https://bookoftom.gitbooks.io/the-little-book-of-tom/content/brand-guidelines.html).
+Note: Instructions to design your logo are found in the [branding guidelines](brand-guidelines.md)
+
 
 **Event Graphic: **You will develop a unique graphic for the event to showcase your local culture. The style guidelines are included in the [branding](#heading=h.sz8m7ztcu0hv) section of the book.
