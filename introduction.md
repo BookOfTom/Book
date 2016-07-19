@@ -6,7 +6,7 @@ Whether your Makeathon has 80 participants or 800 participants, the model is the
 
 **Length: **72 hours
 
-**Locations****: **An accessible space that can safely house a three day makeathon that involves modern manufacturing tools. We recommend steering clear of carpeted spaces.
+**Locations: **An accessible space that can safely house a three day makeathon that involves modern manufacturing tools. We recommend steering clear of carpeted spaces.
 
 **Choosing a date:** Set aside a minimum of 3-4 months for planning from the date you sign the 1st licensing agreement.
 
@@ -16,7 +16,7 @@ Whether your Makeathon has 80 participants or 800 participants, the model is the
 
 **Attendance:** Depending on your license level, your Makeathon involves up to 80, 150 or an unlimited number of attendees. When setting up your teams, you will generally assign 3-7 participants to each.
 
-**Naming****: **TOM's are always organized as open innovation events for a local community. You have three choices for your name, whichever you choose will need to be approved by your TOM POC. Naming options are:
+**Naming: **TOM's are always organized as open innovation events for a local community. You have three choices for your name, whichever you choose will need to be approved by your TOM POC. Naming options are:
 
 1. TOM:Full city or neighborhood name  (i.e. TOM:New York City or TOM:Wall Street) **or **TOM:Acronym (i.e. TOM:NYC)
 
