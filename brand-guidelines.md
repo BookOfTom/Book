@@ -1,6 +1,6 @@
 ### Part 5: **Brand guidelines**
 
-**Event name:* When writing or speaking about your event, always use TOM:cityname. i.e.: TOM:Moscow
+**Event name:** When writing or speaking about your event, always use TOM:cityname. i.e.: TOM:Moscow
 
 **You: **When speaking about the event, you are the licensed organizer of TOM:cityname. You are not an employee of TOM, please do not present yourself as one. i.e.: My name is Rebecca, I'm the licensed organizer of TOM:Moscow.
 
