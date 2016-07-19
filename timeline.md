@@ -12,7 +12,7 @@ After signing the licensing agreement, you will draw up milestones with your TOM
     <td>Logistics & Planning:
 Create a detailed plan for the months leading up to the Makeathon 
 Set a date and secure a location
-Identify and secure potential donors and [sponsors](budget&funding.md) 
+Identify and secure potential donors and sponsors 
 Launch PR strategy
 </td>
   </tr>
