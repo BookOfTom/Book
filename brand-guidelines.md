@@ -1,6 +1,6 @@
 ### Part 5: **Brand guidelines**
 
-**Event ****name****:**** **When writing or speaking about your event, always use TOM:cityname. i.e.: TOM:Moscow
+**Event name:* When writing or speaking about your event, always use TOM:cityname. i.e.: TOM:Moscow
 
 **You: **When speaking about the event, you are the licensed organizer of TOM:cityname. You are not an employee of TOM, please do not present yourself as one. i.e.: My name is Rebecca, I'm the licensed organizer of TOM:Moscow.
 
@@ -16,9 +16,9 @@
 
 * When referring to TOM in a different language, always refer to the organization and write it as TOM or TOM: Tikkun Olam Makers and do not translate it.
 
-2. **[Your local TOM log**o](#heading=h.xwark19tphx3)**:** We will provide you the open files to create your own logo, or you can request our team to design it for you. Once you complete your local TOM logo, you will design a local TOM graphic to compliment the logo.
+2. **[Your local TOM logo](brand-guidelinesmdlogo.md):** We will provide you the open files to create your own logo, or you can request our team to design it for you. Once you complete your local TOM logo, you will design a local TOM graphic to compliment the logo.
 
-3. **[Your local TO**M](#heading=h.dc4vt41svo9z)**[ graphi**c](#heading=h.dc4vt41svo9z)**:** You will have the option to design a graphic reflecting the local flavor and culture. Keep it family friendly and have fun.
+3. **[Your local TOM graphic](brand-guidelinesmdgraphic.md)** You will have the option to design a graphic reflecting the local flavor and culture. Keep it family friendly and have fun.
 
 Let's compare the two logos, there are some similarities so that the global TOM brand is recognized, but you can see at a glance that your local TOM is designed for you and your event!
 
