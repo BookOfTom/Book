@@ -2,11 +2,11 @@
 
 As you start planning, you'll be reaching out to partners and Need Knowers, discussing challenges, disabilities, and people with disabilities. Take a few minutes and familiarize yourself with some pointers about working with people with disabilities. Every country and culture has their own sensitivities, if you’re unsure about how to phrase something, just ask, in general people would prefer you ask rather than make an assumption.
 
-**1.	****Ask**** before you assume: **use appropriate terminology** **when working with someone with a disability, you can ask what terminology they prefer beforehand.
+**1.	Ask before you assume: **use appropriate terminology when working with someone with a disability, you can ask what terminology they prefer beforehand.
 
-**2.****	****Get to know the person behind the disability:** you'll be spending every waking moment with this person for 72 hours, don’t just learn their disability, go out of your way to *schmooze* with them at lunch or over coffee during a break and find out what makes them tick!
+**2. Get to know the person behind the disability:** you'll be spending every waking moment with this person for 72 hours, don’t just learn their disability, go out of your way to *schmooze* with them at lunch or over coffee during a break and find out what makes them tick!
 
-**3.	****Avoid offensive terms:** Appropriate terminology includes: "Need Knower," “people with disabilities” and “a person with a visual, hearing, physical, speech, or cognitive impairment.” Avoid: restricted to a wheelchair, victim of, suffers from, retarded, deformed, crippled, and physically challenged. Remember, you can always ask the person with a disability what they prefer.
+**3.	Avoid offensive terms:** Appropriate terminology includes: "Need Knower," “people with disabilities” and “a person with a visual, hearing, physical, speech, or cognitive impairment.” Avoid: restricted to a wheelchair, victim of, suffers from, retarded, deformed, crippled, and physically challenged. Remember, you can always ask the person with a disability what they prefer.
 
 *Note: Although ***_handicapped_*** is widely used in both law and everyday speech to refer to people having physical or mental disabilities, those described by the word tend to prefer the expressions disabled or people with disabilities. (Source:American Heritage Dictionary)*
 
