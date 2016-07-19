@@ -25,8 +25,10 @@ Whether your Makeathon has 80 participants or 800 participants, the model is the
 3. **Co-events: **Events organized as part of a global community, events or conferences.
 
 4. If the Makeathon is not stand alone, the event or conference name can be added to the TOM Makeathon name but will need to be approved by your point of contact.
-    **(print)** TOM:NYC Thanksgiving Day Parade
-    **(verbal)** TOM:NYC at the Thanksgiving Day Parade
+   
+   **(print)** TOM:NYC Thanksgiving Day Parade
+   
+   **(verbal)** TOM:NYC at the Thanksgiving Day Parade
 
 Note: Instructions to design your logo are found in the [branding guidelines](brand-guidelines.md)
 
