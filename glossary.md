@@ -2,7 +2,7 @@
 
 We have a lot to cover in the Book of TOM, familiarize yourself with our terminology before getting started!
 
-**Applicants vs. Participants **
+**Applicants vs. Participants**
 
 **Applicants: **Makers and Need Knowers that submit** applications** to participate in a TOM Makeathon. Since TOMs are normally overbooked, not all applicants will become participants.
 
