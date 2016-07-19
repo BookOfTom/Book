@@ -31,4 +31,4 @@ Whether your Makeathon has 80 participants or 800 participants, the model is the
 Note: Instructions to design your logo are found in the [branding guidelines](brand-guidelines.md)
 
 
-**Event Graphic: **You will develop a unique graphic for the event to showcase your local culture. The style guidelines are included in the [branding](#heading=h.sz8m7ztcu0hv) section of the book.
+**Event Graphic: **You will develop a unique graphic for the event to showcase your local culture. The style guidelines are included in the [branding](brand-guidelines.md) section of the book.
