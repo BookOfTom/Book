@@ -4,7 +4,7 @@ After signing the licensing agreement, you will draw up milestones with your TOM
 
 <table>
   <tr>
-    <td>Month 1</td>
+    <td>**Month 1**</td>
     <td></td>
   </tr>
   <tr>
@@ -12,7 +12,7 @@ After signing the licensing agreement, you will draw up milestones with your TOM
     <td>Logistics & Planning:
 Create a detailed plan for the months leading up to the Makeathon 
 Set a date and secure a location
-Identify and secure potential donors and sponsors
+Identify and secure potential donors and [sponsors](budget&funding.md) 
 Launch PR strategy
 </td>
   </tr>
