@@ -16,9 +16,9 @@
 
 * When referring to TOM in a different language, always refer to the organization and write it as TOM or TOM: Tikkun Olam Makers and do not translate it.
 
-2. **[Your local TOM logo](brand-guidelinesmdlogo.md):** We will provide you the open files to create your own logo, or you can request our team to design it for you. Once you complete your local TOM logo, you will design a local TOM graphic to compliment the logo.
+2. **[Your local TOM logo](#brand/brand-guidelinesmdlogo.md):** We will provide you the open files to create your own logo, or you can request our team to design it for you. Once you complete your local TOM logo, you will design a local TOM graphic to compliment the logo.
 
-3. **[Your local TOM graphic](brand-guidelinesmdgraphic.md)** You will have the option to design a graphic reflecting the local flavor and culture. Keep it family friendly and have fun.
+3. **[Your local TOM graphic](brand-guidelines.md#graphic)** You will have the option to design a graphic reflecting the local flavor and culture. Keep it family friendly and have fun.
 
 Let's compare the two logos, there are some similarities so that the global TOM brand is recognized, but you can see at a glance that your local TOM is designed for you and your event!
 
