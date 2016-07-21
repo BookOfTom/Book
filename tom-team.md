@@ -43,7 +43,7 @@ Each role requires various levels of engagement—some roles won't be as pertine
 
   4. Hiring the production company
 
-  5. Initiating the [Call for Talent & Call for Challenge](#heading=h.i80u46tpnh3a)
+  5. Initiating the [Call for Talent & Call for Challenge](calls.md)
 
   6. Authorizing design and graphics
 
