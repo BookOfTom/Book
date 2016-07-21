@@ -4,10 +4,10 @@ TOM does not end on Demo Day. Follow-up and PostTOM activities are crucial for t
 
 PostTOM activities have two very concrete goals:
 
-1. **Upload prototypes on the temporary ****[Open Makers Marke**t](http://www.tomglobal.org/projects)**
+1. **Upload prototypes on the temporary [Open Makers Market](http://www.tomglobal.org/projects)
 **Each team is responsible for uploading the product file to the Open Makers Market.
 
-2. **Connect participants and form ****[TOM:Developer Group**s](http://tomglobal.org/makers/)** **
+2. **Connect participants and form [TOM:Developer Groups](http://tomglobal.org/makers/) **
 These are teams that work on TOM projects on an ongoing basis
 
 The key for success for both is the **PostTOM Meeting**
