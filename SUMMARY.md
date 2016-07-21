@@ -23,7 +23,7 @@
    * [Project Coordinator](tom-team.md#project)
    * [Participant Coordinator](tom-team.md#participants)
    * [Public Relations Coordinator](tom-team.md#public)
-   * [Tour and Visitors Coordinator](tom-team.md#tour)
+   * [Tour and Visitors Coordinator](tom-team.md#tours)
    * [Volunteer Coordinator](tom-team.md#volunteer)
    * [Partner Coordinator](tom-team.md#partner)
    * [Graphic Coordinator](tom-team.md#graphic)
