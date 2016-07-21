@@ -14,11 +14,11 @@ Each role requires various levels of engagement—some roles won't be as pertine
 
 5. **[Project Coordinator](tom-team.md#project)**
 
-6. **[Participant Coordinator](tom-team.md#participant)**
+6. **[Participants Coordinator](tom-team.md#participants)**
 
 7. **[Public Relations Coordinator](tom-team.md#public)**
 
-8. **[Tour and Visitors Coordinator](tom-team.md#tour)**
+8. **[Tours and Visitors Coordinator](tom-team.md#tours)**
 
 9. **[Volunteer Coordinator](tom-team.md#volunteer)**
 
@@ -152,7 +152,7 @@ Each role requires various levels of engagement—some roles won't be as pertine
 
   Timeframe: recruit after PreTOM
 
-10. ####**Partners Coordinator** {#partners}
+10. ####**Partners Coordinator** {#partner}
 
   The Partner Coordinator reaches out to partners before the event and continues to develop the relationship through the event. Partners are great resources for recruiting potential participants, Need Knowers, Makers, volunteers, team leaders, etc. The Partner Coordinator will work closely with partners to ensure that the partnership is properly utilized.
 
@@ -162,7 +162,7 @@ Each role requires various levels of engagement—some roles won't be as pertine
 
   Timeframe: from the moment the license is signed to the follow up after the event
 
-11. ####**Graphics Coordinator ** {#graphics}
+11. ####**Graphics Coordinator ** {#graphic}
 
   The Graphics Coordinator is in charge of all graphics for the event: logos, signs, posters, etc. The person assigned to this role can do the graphic on their own using the templates provided or can be the point of contact with the graphic company.
 
