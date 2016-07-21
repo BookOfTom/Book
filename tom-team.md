@@ -174,7 +174,7 @@ Each role requires various levels of engagement—some roles won't be as pertine
 
 12. ####**Campus Coordinator ** {#campus}
 
-  The Campus Coordinator is responsible for coordinating the [Campus Lane](TOM.md#campuslane). They coordinate the extra little things that make the overall experience more enriched and exciting. They should plan interesting presentations from people both inside the event (Need Knowers or Makers) and outside the event (speakers, sponsors and influencers in the community).
+  The Campus Coordinator is responsible for coordinating the [Campus Lane](tom.md#campuslane). They coordinate the extra little things that make the overall experience more enriched and exciting. They should plan interesting presentations from people both inside the event (Need Knowers or Makers) and outside the event (speakers, sponsors and influencers in the community).
 
   There are certain moments throughout the event where low energy runs more rampant. The campus coordinator is responsible for initiating creative, fun and entertaining ways to pump everyone back up.
 
