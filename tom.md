@@ -76,7 +76,7 @@ Session 2: MOTIVATIONAL SPEECH: on the second day in the late morning around 11a
 
 Session 3: PARTY: after lunch on the second day, pump everyone up up with a fun jam session or dance party that gets people stretching and recharging.
 
-##### 5. PiNG
+##### 5. PiNG {#ping}
 
 This is an opportunity to track progress, share what you need help with and set goals. At Makeathons, all the teams work hard, round-the-clock, focused on their projects. We want to support global communication and collaboration! When we all work together towards common goals, we achieve greater results.
 
