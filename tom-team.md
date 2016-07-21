@@ -47,7 +47,7 @@ Each role requires various levels of engagement—some roles won't be as pertine
 
   6. Authorizing design and graphics
 
-  Hire a team you can trust to work independently, schedule weekly [PiNG](#heading=h.o5z376vprm4q)s to review progress, needs and goals.
+  Hire a team you can trust to work independently, schedule weekly [PiNG](calls.md#ping)s to review progress, needs and goals.
 
   Timeframe: from license all the way through PostTOM (and beyond)
 
