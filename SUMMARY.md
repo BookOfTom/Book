@@ -37,7 +37,7 @@
    * [Designing Your Makerspace](tom.md#makerspace)
    * [Food](tom.md#food)
    * [Accommodations](tom.md#accommodations)
-* [Part 12: PostTOM](posttommdaccommodations.md)
+* [Part 12: PostTOM](posttom.md)
    * [PostTOM Meeting](posttom.md#meeting)
 * [Part 13: The End of the Book of TOM](end.md)
 
