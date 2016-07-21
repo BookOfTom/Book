@@ -8,7 +8,7 @@ As you start planning, you'll be reaching out to partners and Need Knowers, disc
 
 **3.	Avoid offensive terms:** Appropriate terminology includes: "Need Knower," “people with disabilities” and “a person with a visual, hearing, physical, speech, or cognitive impairment.” Avoid: restricted to a wheelchair, victim of, suffers from, retarded, deformed, crippled, and physically challenged. Remember, you can always ask the person with a disability what they prefer.
 
-*Note: Although ***_handicapped_*** is widely used in both law and everyday speech to refer to people having physical or mental disabilities, those described by the word tend to prefer the expressions disabled or people with disabilities. (Source:American Heritage Dictionary)*
+*Note: Although **_handicapped_** is widely used in both law and everyday speech to refer to people having physical or mental disabilities, those described by the word tend to prefer the expressions disabled or people with disabilities. (Source:American Heritage Dictionary)*
 
 **4.	Talk directly to the person with the disability**, and not to the attendant, caregiver, or interpreter. Although they may look at the interpreter while talking to you, keep your focus on the person you're talking with.
 
