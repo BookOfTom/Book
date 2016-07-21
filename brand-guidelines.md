@@ -16,7 +16,7 @@
 
 * When referring to TOM in a different language, always refer to the organization and write it as TOM or TOM: Tikkun Olam Makers and do not translate it.
 
-2. **[Your local TOM logo](#brand/brand-guidelinesmdlogo.md):** We will provide you the open files to create your own logo, or you can request our team to design it for you. Once you complete your local TOM logo, you will design a local TOM graphic to compliment the logo.
+2. **Your local TOM logo:** We will provide you the open files to create your own logo, or you can request our team to design it for you. Once you complete your local TOM logo, you will design a local TOM graphic to compliment the logo.
 
 3. **[Your local TOM graphic](brand-guidelines.md#graphic)** You will have the option to design a graphic reflecting the local flavor and culture. Keep it family friendly and have fun.
 
@@ -172,7 +172,7 @@ The minimum size of the logo should be 14mm (print) , 40 px (screen).
 
 We invite and encourage you to create your unique logo for your event that showcases your local flavor and culture. This is your event and you have free reign to design this graphic.
 
-**Here are the ****guidelines****:**
+**Here are the guidelines:**
 
 1. Use the provided color template
 
@@ -202,7 +202,7 @@ We invite and encourage you to create your unique logo for your event that showc
 
 * You are welcome to abbreviate the month: November can be written Nov. ending with a period
 
-3. **Picture ****background****:** when placing the logo on an image, set the image as 40% opacity or lower
+3. **Picture background:** when placing the logo on an image, set the image as 40% opacity or lower
 ![image alt text](img/9slQvAUhu3dvIjWapxHeA_img_13.png)
 
 **Here are some of the things you shouldn't do:**![image alt text](img/9slQvAUhu3dvIjWapxHeA_img_14.png)
@@ -221,7 +221,7 @@ We will provide the templates for the following designs. Update it with your eve
 
 * Directions signs
 
-**D****esigning your own materials with the branding: **
+**Designing your own materials with the branding: **
 
 We have a few guidelines for you when you design your own branded materials.
 

@@ -110,9 +110,8 @@ Share raw footage with TOM POC to be used in official TOM materials within a wee
 
 **_Nice idea:_*** produce mini-videos of each project.*
 
-*[https://www.youtube.com/watch?v=lIDfQyV5RW*4](https://www.youtube.com/watch?v=lIDfQyV5RW4)
-
-*[https://www.youtube.com/watch?v=w36QAUA_Dk*c](https://www.youtube.com/watch?v=w36QAUA_Dkc)
+[https://www.youtube.com/watch?v=lIDfQyV5RW4](https://www.youtube.com/watch?v=lIDfQyV5RW4)
+[https://www.youtube.com/watch?v=w36QAUA_Dkc](https://www.youtube.com/watch?v=w36QAUA_Dkc)
 
 Photography guidelines:
 
