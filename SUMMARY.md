@@ -12,7 +12,7 @@
    * [Funding](budget&funding.md#funding)
 * [Part 5: Brand Guidelines](brand-guidelines.md)
    * [The official TOM logo and brand](brand-guidelines.md#brand)
-   * [Creating your local TOM logo](#brand/brand-guidelinesmdlogo.md)
+   * [Creating your local TOM logo](brand-guidelinesmdlogomd.md)
    * [Your local TOM graphic](brand-guidelines.md#graphic)
 * [Part 6: PR/Marketing](pr-marketing.md)
 * [Part 7: The TOM Team](tom-team.md)
