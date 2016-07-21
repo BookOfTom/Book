@@ -154,7 +154,7 @@ The judges deliberate and decide which team wins each award.
 
 **Criteria**
 
-**[https://drive.google.com/a/tomglobal.org/file/d/0BwlJoN3Qeuc6Q2FwYXhNRThMRWs/view?ts=56fd387**8](https://drive.google.com/a/tomglobal.org/file/d/0BwlJoN3Qeuc6Q2FwYXhNRThMRWs/view?ts=56fd3878)
+**[https://drive.google.com/a/tomglobal.org/file/d/0BwlJoN3Qeuc6Q2FwYXhNRThMRWs/view?ts=56fd3878](https://drive.google.com/a/tomglobal.org/file/d/0BwlJoN3Qeuc6Q2FwYXhNRThMRWs/view?ts=56fd3878)**
 
 **Prizes**
 
