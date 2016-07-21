@@ -21,7 +21,7 @@
    * [Production Coordinator](tom-team.md#production)
    * [Workshop Manager](tom-team.md#workshop)
    * [Project Coordinator](tom-team.md#project)
-   * [Participant Coordinator](tom-team.md#participant)
+   * [Participant Coordinator](tom-team.md#participants)
    * [Public Relations Coordinator](tom-team.md#public)
    * [Tour and Visitors Coordinator](tom-team.md#tour)
    * [Volunteer Coordinator](tom-team.md#volunteer)
