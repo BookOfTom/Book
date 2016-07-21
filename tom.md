@@ -60,13 +60,13 @@ Safety rules:
 
 3. Each piece of machinery has rules, participants must follow your rules even if they think they know better.
 
-#1 Injury we've seen at TOM Makeathons - is by utility knives! Because people think they know how to use knives.
+(#1 Injury we've seen at TOM Makeathons - is by utility knives! Because people think they know how to use knives.)
 
 ##### 3. Team Time
 
 Time for the team to work uninterrupted. During team time, the teams have the next 3 days to complete their challenge and design the best product. No one will disturb them and the machine shop will be available for them at all times.
 
-##### 4. Campus Lane
+##### 4. Campus Lane {#campuslane}
 
 The idea is to give participants an opportunity to learn new things during the 72 hours. We believe heavily in learning-for-the-sake-of-learning so we don't want to waste any chance to acquire new knowledge. There should be three sessions over the three day period:
 
